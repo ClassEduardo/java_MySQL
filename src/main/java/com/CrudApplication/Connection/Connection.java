@@ -4,9 +4,9 @@ import java.sql.DriverManager;
 import java.sql.SQLException;
 
 public class Connection {
-   private static final String url = "jdbc:mysql://localhost:3001/ecommerce";
-   private static final String user = "root";
-   private static final String password = "d#df@i23d";
+   private static final String url = "...";
+   private static final String user = "...";
+   private static final String password = "...";
 
    public static java.sql.Connection conn;
 
